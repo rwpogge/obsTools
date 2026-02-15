@@ -33,7 +33,7 @@ See the `thorsky` documentation if you need to dig deeper, change the observator
 
 Source: https://astroquery.readthedocs.io/en/latest/
 
-MODS field visualization and blind offset star calculation uses `astroquery.gais` and the Gaia TAP+ database. 
+MODS field visualization and blind offset star calculation uses `astroquery.gaia` and the Gaia TAP+ database. 
 Our code is based in part on the Gaia Archive tutorial that uses the Gaia TAP+ 
 (http://astroquery.readthedocs.io/en/latest/gaia/gaia.html#module-astroquery.gaia)
 
