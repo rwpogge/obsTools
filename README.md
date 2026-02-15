@@ -1,5 +1,5 @@
 # obsTools
-Jupyter notebooks with LBT and other observing preparation tools
+Jupyter notebooks of LBT observing planning tools.
 
 ## Dependencies
 
